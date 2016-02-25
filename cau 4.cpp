@@ -27,7 +27,7 @@ int main()
 		S6=(float)sqrt(S4)/S5;
 		S7+=(float)1/gt(i);
 	}
-	
+	//hay =))
 	cout<<"gia tri S "<<S;
 	cout<<"gia tri S1 "<<S1;
 	cout<<"gia tri S2 "<<S2;
